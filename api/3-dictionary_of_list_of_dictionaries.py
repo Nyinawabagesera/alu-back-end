@@ -1,4 +1,5 @@
-pt that gets user data (Todo list) from API
+#!/usr/bin/python3
+"""Script that gets user data (Todo list) from API
 and then export the result to csv file. """
 
 import json
